@@ -1,0 +1,6 @@
+site_name: Single Stoners App
+site_description: Official site for the Single Stoners App
+site_url: https://singlestonersapp.github.io/
+theme:
+  name: slate
+plugins: []
